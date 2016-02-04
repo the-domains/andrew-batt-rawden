@@ -3,33 +3,28 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-04T23:37:06.337Z'
-dateModified: '2016-02-04T23:36:49.054Z'
+datePublished: '2016-02-04T23:45:03.966Z'
+dateModified: '2016-02-04T23:44:51.441Z'
 title: Works List
 author: []
+sourcePath: _posts/2016-02-04-works-list.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-04-works-list.md
-published: true
 url: works-list/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9d29aa2-73fb-445c-b8ef-74aeff2fadef.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebf9ee99-f5b8-4145-908e-3dffe972bdcf.jpg)
 
 # Works List
-
-****
-
-**Works List (as of
-05/02/2016)**
 
 ## Solo Instrument
 
