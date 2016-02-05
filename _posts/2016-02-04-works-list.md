@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A list of my compositions
-datePublished: '2016-02-05T21:47:44.320Z'
-dateModified: '2016-02-05T21:45:36.685Z'
+datePublished: '2016-02-05T21:52:35.082Z'
+dateModified: '2016-02-05T21:52:30.897Z'
 title: Works List
 author: []
 sourcePath: _posts/2016-02-04-works-list.md
@@ -22,6 +22,8 @@ url: works-list/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3be63b74-a075-4e62-8777-0246a4b537eb.jpg)
+
 # Works List
 
 ## Solo Instrument
@@ -276,4 +278,3 @@ Pno, Electronics -- 2003 -- 23 min _
 * Music to the play "Live Acts on Stage" by
 Michael Gow for the Ryde Argyl Performig Arts company, premiered at the Seymour
 Centre
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3be63b74-a075-4e62-8777-0246a4b537eb.jpg)
