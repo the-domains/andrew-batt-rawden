@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-04T23:45:03.966Z'
-dateModified: '2016-02-04T23:44:51.441Z'
+description: A list of my compositions
+datePublished: '2016-02-05T21:47:44.320Z'
+dateModified: '2016-02-05T21:45:36.685Z'
 title: Works List
 author: []
 sourcePath: _posts/2016-02-04-works-list.md
@@ -22,8 +22,6 @@ url: works-list/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebf9ee99-f5b8-4145-908e-3dffe972bdcf.jpg)
-
 # Works List
 
 ## Solo Instrument
@@ -136,7 +134,7 @@ _Inevitable -- orchestra -- 2014 --
 by the Bellingen Youth Orchestra, workshopped by the Queensland Symphony
 Orchestra.
 
-Medium Ensemble (6 to 12)
+## Medium Ensemble (6 to 12)
 
 _Song of the Virtues -- Sop, Sop,
 Counter Tenor, Baritone, Bass -- 2013 -- 8 min_
@@ -278,3 +276,4 @@ Pno, Electronics -- 2003 -- 23 min _
 * Music to the play "Live Acts on Stage" by
 Michael Gow for the Ryde Argyl Performig Arts company, premiered at the Seymour
 Centre
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3be63b74-a075-4e62-8777-0246a4b537eb.jpg)
