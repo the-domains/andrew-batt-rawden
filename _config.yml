@@ -1,7 +1,7 @@
 name: andrew batt-rawden
 favicon: null
-layout_spectrum: 0.24843
-typography_spectrum: 0.1972
+layout_spectrum: 0.76017
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#a8a297'
-    - '#625f51'
-    - '#222127'
-    - '#9beaed'
-  brandStrength: 0
-  lightness: 0.8020273346919566
-  saturation: 0
+    - '#191410'
+    - '#332c24'
+    - '#704c3e'
+    - '#b9806c'
+    - '#e6bda9'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 1
 purpose: []
