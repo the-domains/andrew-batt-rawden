@@ -3,27 +3,28 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Biography of Andrew Batt-Rawden
-datePublished: '2016-02-04T23:37:06.414Z'
-dateModified: '2016-02-04T23:36:38.673Z'
-title: Biography
+datePublished: '2016-02-06T02:32:28.634Z'
+dateModified: '2016-02-06T02:32:22.905Z'
+title: 'Biography '
 author: []
+sourcePath: _posts/2016-02-04-biography.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-04-biography.md
-published: true
 url: biography/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/684be9a0-3d00-41dc-82ac-255c106549f9.jpg)
+
 # Biography
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2254e200-ae96-4adc-adc2-5b8166e54010.jpg)
 
 Andrew Batt-Rawden's music output is mainly for chamber and
 vocal music, with or without electronics. His first album "Seven Stations" was
