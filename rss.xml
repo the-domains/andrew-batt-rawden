@@ -4,11 +4,18 @@
         <description><![CDATA[andrew batt-rawden]]></description>
         <link>https://thegrid.ai/andrew-batt-rawden/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 02:47:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2016 02:47:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/andrew-batt-rawden/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Events]]></title>
+            <description><![CDATA[<article><h1>Events</h1><h2>11 May 2016, Melbourne Recital Centre, Melbourne, Australia </h2><p>A list of current/future events where you can hear my music.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92fbfab49df59d6fd632c08f354deefe4c0bc5cf.jpg"></article>]]></description>
+            <link>https://thegrid.ai/andrew-batt-rawden/events/index.html</link>
+            <guid isPermaLink="false">5695986f-1dec-463f-b47c-cd9236e9c242</guid>
+            <pubDate>Sat, 06 Feb 2016 02:47:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Contact]]></title>
-            <description><![CDATA[<article><h1>Contact</h1><p>Stay in touch....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c9ebb63111fa9e92712b7e1d483cfc2eb038047.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Contact</h1><p>Stay in touch....</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4459a2171ad3b8b469a011f94e54e70ad57a4fc7.jpg"></article>]]></description>
             <link>https://thegrid.ai/andrew-batt-rawden/contact/index.html</link>
             <guid isPermaLink="false">c0a73eb1-3343-412f-b01f-4b72be8c6f82</guid>
             <pubDate>Sat, 06 Feb 2016 02:47:01 GMT</pubDate>
@@ -51,13 +58,6 @@ Festival and Bellingen Music Festival.</p><img src="https://s3-us-west-2.amazona
             <link>https://thegrid.ai/andrew-batt-rawden/releases/index.html</link>
             <guid isPermaLink="false">e292b0fd-3137-4a3d-aa54-e15b1c782130</guid>
             <pubDate>Sat, 06 Feb 2016 02:36:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Events]]></title>
-            <description><![CDATA[<article><h1>Events</h1><h2>11 May 2016, Melbourne Recital Centre, Melbourne, Australia </h2><p>A list of current/future events where you can hear my music.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/92fbfab49df59d6fd632c08f354deefe4c0bc5cf.jpg"></article>]]></description>
-            <link>https://thegrid.ai/andrew-batt-rawden/events/index.html</link>
-            <guid isPermaLink="false">5695986f-1dec-463f-b47c-cd9236e9c242</guid>
-            <pubDate>Sat, 06 Feb 2016 02:35:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
