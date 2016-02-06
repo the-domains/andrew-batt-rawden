@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A list of my compositions
-datePublished: '2016-02-06T03:27:34.300Z'
-dateModified: '2016-02-06T03:27:32.240Z'
+datePublished: '2016-02-06T04:56:17.799Z'
+dateModified: '2016-02-06T04:56:12.583Z'
 title: Works
 author: []
 sourcePath: _posts/2016-02-04-works-list.md
@@ -24,8 +24,6 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e488e085-6e83-4f04-8f3e-6675a7d5a4ed.jpg)
 
-# Works
-
 A list of all my music by instrumentation
 
 ## Solo Instrument
@@ -36,6 +34,8 @@ at Isle Of Dogs Performance Space, London, by Living Composers Group.
 _Themeatrical Elude -- Solo Harp -- 2003 -- 5 min - _Premiered by Marshal McGuire at Dank St Depot
 
 _88^Keys^to -- Solo Piano -- 2003 -- 3 min _
+
+__
 
 ## Small Ensemble (2 to 5)
 
@@ -87,8 +87,7 @@ Chronology Arts at Australia Hall, NSW in 2008\.
 
 _Melody for String Quartet -- vln,
 vla, vla, vc -- 2006 -- 5 min - _Commissioned
-by Christian Bonnelykke and premiered by scratch ensemble at Sydney Conservatorium
-of Music
+by Christian Bonnelykke
 
 ## Large Ensemble (13 or more) and
 Orchestral work
