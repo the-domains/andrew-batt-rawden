@@ -4,7 +4,7 @@
         <description><![CDATA[Andrew Batt-Rawden]]></description>
         <link>http://www.andrewbattrawden.com.au/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 04:46:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2016 04:50:01 GMT</lastBuildDate>
         <atom:link href="http://www.andrewbattrawden.com.au/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Listen]]></title>
@@ -15,7 +15,7 @@
         </item>
         <item>
             <title><![CDATA[Events]]></title>
-            <description><![CDATA[<article><h1>Events</h1><h2>11 May 2016, Melbourne Recital Centre, Melbourne, Australia </h2><p>A list of current/future events where you can hear my music.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/37966f48-416a-4d9b-9519-301b0f250848.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Events</h1><h2>11 May 2016, Melbourne Recital Centre, Melbourne, Australia </h2><p>A list of current/future events where you can hear my music.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f68f1fb2308b468e28aaf758b49c650e97a19c51.jpg"></article>]]></description>
             <link>http://www.andrewbattrawden.com.au/events/index.html</link>
             <guid isPermaLink="false">5695986f-1dec-463f-b47c-cd9236e9c242</guid>
             <pubDate>Sat, 06 Feb 2016 04:45:50 GMT</pubDate>
@@ -43,10 +43,10 @@
         </item>
         <item>
             <title><![CDATA[Releases]]></title>
-            <description><![CDATA[<article><h1>Releases</h1><p>A list of releases with my music.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c9f830278edc23ac3e951424417e8cddfefe6268.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Releases</h1><p>A list of releases with my music.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fc24e5b5685aac3d045338c8d52d5d84a119ca11.jpg"></article>]]></description>
             <link>http://www.andrewbattrawden.com.au/releases/index.html</link>
             <guid isPermaLink="false">e292b0fd-3137-4a3d-aa54-e15b1c782130</guid>
-            <pubDate>Sat, 06 Feb 2016 03:31:04 GMT</pubDate>
+            <pubDate>Sat, 06 Feb 2016 04:49:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
