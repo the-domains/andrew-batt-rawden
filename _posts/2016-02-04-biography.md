@@ -3,12 +3,12 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Biography of Andrew Batt-Rawden
-datePublished: '2016-02-06T02:32:28.634Z'
-dateModified: '2016-02-06T02:32:22.905Z'
-title: 'Biography '
+datePublished: '2016-02-06T02:33:11.130Z'
+dateModified: '2016-02-06T02:33:06.502Z'
+title: Biography
 author: []
 sourcePath: _posts/2016-02-04-biography.md
 published: true
