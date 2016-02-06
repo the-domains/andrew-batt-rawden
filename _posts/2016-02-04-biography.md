@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography of Andrew Batt-Rawden
-datePublished: '2016-02-06T02:33:11.130Z'
-dateModified: '2016-02-06T02:33:06.502Z'
+datePublished: '2016-02-06T03:28:18.975Z'
+dateModified: '2016-02-06T03:28:13.512Z'
 title: Biography
 author: []
 sourcePath: _posts/2016-02-04-biography.md
@@ -25,6 +25,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/684be9a0-3d00-41dc-82ac-255c106549f9.jpg)
 
 # Biography
+
+Composer, director, curator, publisher, entrepreneur.
 
 Andrew Batt-Rawden's music output is mainly for chamber and
 vocal music, with or without electronics. His first album "Seven Stations" was
