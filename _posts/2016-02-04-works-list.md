@@ -3,12 +3,12 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: A list of my compositions
-datePublished: '2016-02-06T02:27:38.113Z'
-dateModified: '2016-02-06T02:27:37.389Z'
-title: Works List
+datePublished: '2016-02-06T02:36:40.748Z'
+dateModified: '2016-02-06T02:36:34.950Z'
+title: Works
 author: []
 sourcePath: _posts/2016-02-04-works-list.md
 published: true
@@ -24,11 +24,9 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3be63b74-a075-4e62-8777-0246a4b537eb.jpg)
 
-# Works List
+# Works
 
 A list of all my music by instrumentation
-
-## 
 
 ## Solo Instrument
 
