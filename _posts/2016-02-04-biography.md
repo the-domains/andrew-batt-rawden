@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography of Andrew Batt-Rawden
-datePublished: '2016-02-06T05:11:52.017Z'
-dateModified: '2016-02-06T05:11:48.259Z'
+datePublished: '2016-02-06T10:22:09.464Z'
+dateModified: '2016-02-06T10:22:06.519Z'
 title: Biography
 author: []
 sourcePath: _posts/2016-02-04-biography.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/684be9a0-3d00-41dc-82ac-255c106549f9.jpg)
 
-## Composer, director, curator, publisher, entrepreneur.
+## Composer, director, curator, publisher, entrepreneur
 
 Andrew Batt-Rawden's music output is mainly for chamber music. He is currently concentrating on responsive algorithmic composition...
 
