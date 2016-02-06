@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A list of my compositions
-datePublished: '2016-02-06T02:36:40.748Z'
-dateModified: '2016-02-06T02:36:34.950Z'
+datePublished: '2016-02-06T03:27:34.300Z'
+dateModified: '2016-02-06T03:27:32.240Z'
 title: Works
 author: []
 sourcePath: _posts/2016-02-04-works-list.md
@@ -22,7 +22,7 @@ url: works-list/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3be63b74-a075-4e62-8777-0246a4b537eb.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e488e085-6e83-4f04-8f3e-6675a7d5a4ed.jpg)
 
 # Works
 
