@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Biography of Andrew Batt-Rawden
-datePublished: '2016-02-06T05:03:31.320Z'
-dateModified: '2016-02-06T05:03:27.882Z'
+datePublished: '2016-02-06T05:11:52.017Z'
+dateModified: '2016-02-06T05:11:48.259Z'
 title: Biography
 author: []
 sourcePath: _posts/2016-02-04-biography.md
@@ -26,7 +26,7 @@ _type: Article
 
 ## Composer, director, curator, publisher, entrepreneur.
 
-Andrew Batt-Rawden's music output is mainly for chamber music. He is currently concentrating on responsive algorithmic composition. 
+Andrew Batt-Rawden's music output is mainly for chamber music. He is currently concentrating on responsive algorithmic composition...
 
 His first album "Seven Stations" was
 released in 2013 through [Hospital Hill][0]. His teachers have included Matthew Hindson,
