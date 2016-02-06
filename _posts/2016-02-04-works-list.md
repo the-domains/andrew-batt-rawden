@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A list of my compositions
-datePublished: '2016-02-06T04:56:17.799Z'
-dateModified: '2016-02-06T04:56:12.583Z'
+datePublished: '2016-02-06T05:12:50.980Z'
+dateModified: '2016-02-06T05:12:47.106Z'
 title: Works
 author: []
 sourcePath: _posts/2016-02-04-works-list.md
@@ -89,8 +89,7 @@ _Melody for String Quartet -- vln,
 vla, vla, vc -- 2006 -- 5 min - _Commissioned
 by Christian Bonnelykke
 
-## Large Ensemble (13 or more) and
-Orchestral work
+## Large Ensemble (13+) and Orchestral
 
 _Give me the Night -- vocal quintet
 and large ensemble 2014 -- 4' - _Written
