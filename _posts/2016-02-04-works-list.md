@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A list of my compositions
-datePublished: '2016-02-07T04:09:59.826Z'
-dateModified: '2016-02-07T04:09:15.733Z'
+datePublished: '2016-02-07T04:26:23.035Z'
+dateModified: '2016-02-07T04:26:20.024Z'
 title: Works
 author: []
 sourcePath: _posts/2016-02-04-works-list.md
@@ -26,311 +26,163 @@ _type: Article
 
 A list of all my music by instrumentation
 
-## Solo Instrument
+## Solo Works
 
-__
+"E" -- Bass Recorder, Electronics - 2011 -- 4'30 
 
-_"E" -- Bass Recorder, Electronics - 2011 -- 4'30_
+* Commissioned and premiered by Alicia Crossley at Seymour Centre, NSW and subsequently released on Alicia Crossley's "Addicted to Bass" album. 
 
-* Commissioned and premiered by Alicia Crossley at Seymour Centre, NSW and subsequently released on Alicia Crossley's "Addicted to Bass" album.
+Portrait of a Lover -- Fl, Electronics -- 2011 -- 12'  
 
-__
+* Premiered by Jane Duncan and Chronology Arts at the Oxford Hotel as part of Mardi Gras. 
 
-_Portrait of a Lover -- Fl, Electronics -- 2011 -- 12' _
+5 Photographs -- Solo Piano -- 2007 -- 6'30  
 
-* Premiered by Jane Duncan and Chronology Arts at the Oxford Hotel as part of Mardi Gras.
+* Premiered at Isle Of Dogs Performance Space, London, by Living Composers Group. 
 
-__
+Themeatrical Elude -- Solo Harp -- 2003 -- 5'  
 
-_5 Photographs -- Solo Piano -- 2007 -- 6'30 _
+* Premiered by Marshal McGuire at Dank St Depot 
 
-* Premiered
-at Isle Of Dogs Performance Space, London, by Living Composers Group.
+88^Keys^to -- Solo Piano -- 2003 -- 3' 
 
-__
+## Small Ensemble (2 to 5) 
 
-_Themeatrical Elude -- Solo Harp -- 2003 -- 5' _
+40" -- Quartet and electronics -- 2016 -- 40 seconds  
 
-* Premiered by Marshal McGuire at Dank St Depot
+* Commissioned by Synergy Percussion 
 
-__
+Catharsis -- Piano Quartet and electronics -- 2015 -- 7'-12' 
 
-_88^Keys^to -- Solo Piano -- 2003 -- 3'_
+* Commissioned and premiered by the Australia Piano Quartet (Rebecca Chan, James Wannan, Thomas Rann, Daniel de Borah) 
 
-__
+Shadows Cast by Fire - recorder and harp - 2015 - 8'  
 
-__
+* Commissioned and premiered by Alicia Crossley and Emily Granger 
 
-## Small Ensemble (2 to 5)
+Prosumer Content Junkee -- 2 instruments and operator-- 2014 - 8' 
 
-__
+"29" -- String Quartet -- 2014 -- 7 min  
 
-_40" -- Quartet and electronics --
-2016 -- 40 seconds _
+* Composed for and performed/recorded by the Acacia quartet 
 
-* Commissioned
-by Synergy Percussion
+"28" -- String Quartet and pedals - 2013 -- 13'40 
 
-__
+* Commissioned by The NOISE quartet, released by Vexations840 
 
-_Catharsis -- Piano Quartet and
-electronics -- 2015 -- 7'-12'_
+"27" -- String Quartet -- 2012 -- 12' 
 
-* Commissioned
-and premiered by the Australia Piano Quartet (Rebecca Chan, James Wannan,
-Thomas Rann, Daniel de Borah)
+* Workshopped and recorded by the Goldner Quartet in student/workshop context 
 
-__
+To Understand -- Fl, Vc, Pno, Voice -- 2010 -- 8' 
 
-_Shadows Cast by Fire - recorder and harp - 2015 - 8' _
+Inspirational Gift -- Fl, Cl, Sax, Vla, Vc -- 2009 -- 17'30  
 
-* Commissioned and premiered by Alicia Crossley and Emily Granger
+* Commissioned by Greg Dickson, premiered by Chronology Arts at Sydney Conservatorium of Music with broadcast on Eastside Radio and subsequent performance in 2011 in Musica Viva's Rising Stars series at Opera House 
 
-__
+Quintessence -- Vln, Vla, Vla, Vc, Db -- 2008 -- 20'50  
 
-_Prosumer Content Junkee -- 2
-instruments and operator-- 2014 - 8'_
+* Premiered by Chronology Arts and recorded by ABC Classic FM at Eugene Goossens Hall, ABC Studios Ultimo, NSW. Subsequent broadcast by ABC Classic FM and Eastside Radio 
 
-__
+Les Mots (arrangement) -- Voice, Pno -- 2008 -- 6' 
 
-_"29" -- String Quartet -- 2014 -- 7
-min _
+* Arrangement premiered by Roland Peelman and Jessica Aszodi in the New Music Network mini-series
 
-* Composed
-for and performed/recorded by the Acacia quartet
+Enfer en Paradis -- String Quartet -- 2007 -- 8'40  
 
-__
+* Premiered in L'Espace Mimont, Cannes, France, with Diane Bouchet (vln), Annabelle Dugast (vln), Jean-Christophe Berger (vla) and Anaïs Laugénie (vc), subsequent performance by Chronology Arts at Australia Hall, Sydney, Australia
 
-_"28" -- String Quartet and pedals - 2013 -- 13'40_
+Melody for String Quartet -- vln, vla, vla, vc -- 2006 -- 5' 
 
-* Commissioned by The NOISE quartet, released by Vexations840
+Commissioned by Christian Bonnelykke 
 
-__
+## Medium Ensemble (6 to 12) 
 
-_"27" -- String Quartet -- 2012 -- 12'_
+Song of the Virtues -- Sop, Sop, Counter Tenor, Baritone, Bass -- 2013 -- 8'  
 
-* Workshopped
-and recorded by the Goldner Quartet in student/workshop context
+* Lyrics by Chris Mansell, Commissioned by Greg Dickson for the Song Company to celebrate the 60th Birthday of Penny Le Couteur. Premiered during the Song Company's 2013 Christmas Tour "Of Birds and Angels" 
 
-__
+Seven Stations -- Sop, M.Sop, Bass, Vla, Vc, Perc -- 2013 -- 50' 
 
-_To Understand -- Fl, Vc, Pno,
-Voice -- 2010 -- 8'_
+* Commissioned by Charles Davidson, premiered 1/3/13 at Music Workshop Sydney Conservatorium of Music by Halcyon and Chronology Arts. Poetry by Chris Mansell 
 
-__
+Rise -- Fl, Cl, Sax, Perc, Vla, Vla, Vc -- 2009 -- 14'  
 
-_Inspirational Gift -- Fl, Cl, Sax,
-Vla, Vc -- 2009 -- 17'30 _
+* Premiered by Chronology Arts at Carriageworks 
 
-* Commissioned
-by Greg Dickson, premiered by Chronology Arts at Sydney Conservatorium of
-Music with broadcast on Eastside Radio and subsequent performance in 2011 in
-Musica Viva's Rising Stars series at Opera House
+Ex Nihilo Omnia Fit -- Vln, Vln, Vla, Vc, Vibes, Sop, M. Sop -- 2009 -- 8'30 
 
-__
+* Commissioned by St Ives Uniting Church and Dan Walker, premiered by Halcyon at St Ives Uniting Church. Words complied from Twitter 
 
-_Quintessence -- Vln, Vla, Vla, Vc,
-Db -- 2008 -- 20'50 _
+Circle of Creation -- Hp, Fl, Vc, Pno, solo SATB voices -- 2008 -- 7'40
 
-* Premiered
-by Chronology Arts and recorded by ABC Classic FM at Eugene Goossens Hall, ABC
-Studios Ultimo, NSW. Subsequent broadcast by ABC Classic FM and Eastside Radio
+* Commissioned by and premiered at St Ives Uniting Church, words by Douglas Purnell 
 
-__
+Les Mots -- Bari Sax, Hp, Kit, Vla, Vla, Voice -- 2007 -- 6'50  
 
-_Les Mots (arrangement) -- Voice,
-Pno -- 2008 -- 6'_
+* Premiered by Chronology Arts in 2007 
 
-* Arrangement
-premiered by Roland Peelman and Jessica Aszodi in the New Music Network
-mini-series 2008
+Poetry by Andrew Batt-Rawden
+Click your username. - Vocal sextet -- 2007 -- 8'30  
 
-__
+* Premiered by Song Company as part of Modart07, subsequently broadcast on ABC Classic FM and in NZ. Words by Andrew Batt-Rawden 
 
-_Enfer en Paradis -- String Quartet
--- 2007 -- 8'40 _
+## Large Ensemble (13+) and Orchestral 
 
-* Premiered
-by scratch ensemble in L'Espace Mimont, Cannes, subsequent performance by
-Chronology Arts at Australia Hall, NSW in 2008
+Give me the Night -- vocal quintet and large ensemble 2014 -- 4'  
 
-__
+* Written for and performed by the Orkest de Ereprijs 
 
-_Melody for String Quartet -- vln,
-vla, vla, vc -- 2006 -- 5'_
+Inevitable -- orchestra -- 2014 -- 9'  
 
-* __Commissioned
-by Christian Bonnelykke
+* Commissioned by the Bellingen Youth Orchestra, workshopped by the Queensland Symphony Orchestra 
 
-## Large Ensemble (13+) and Orchestral
+## Choral Works 
 
-__
+Un Droit Égal - four soloists and choir - 2015 - 8' 
 
-_Give me the Night -- vocal quintet
-and large ensemble 2014 -- 4' _
+* Lyrics from diary extract of captain St Aloüarn and members of his crew as well as period colonisation policy documents as published in Philippe Goard et Tugdual de Kerros; "Louis de Saint Aloüarn, lieutenant des vaisseaux du roy : un marin breton à la conquête des terres australes". Commissioned by the Men of Song 
 
-* Written
-for and performed by the Orkest de Ereprijs
+They Sailed - male choir - 2015 - 6'  
 
-__
+* Lyrics by Rafe Morris. Commissioned by the Men of Song 
 
-_Inevitable -- orchestra -- 2014 --
-9' _
+The Tree -- children's choir in 3 parts - 2014 -- 5'  
 
-* Commissioned
-by the Bellingen Youth Orchestra, workshopped by the Queensland Symphony
-Orchestra
+* Lyrics by Chris Mansell, commissioned by the Pemulwuy Male Voice Festival 2014 conducted by Michelle Leonard 
 
-## Medium Ensemble (6 to 12)
+Sky Earth Bird -- mixed aged children's choir, vocal sextet, pno, vln, db, sop sax, percussion -- 2014 -- 9'  
 
-__
+* Lyrics by Chris Mansell and Moorambilla Choirs, commissioned by Michelle Leonard for the 2014 Moorambilla Choirs performance 
 
-_Song of the Virtues -- Sop, Sop,
-Counter Tenor, Baritone, Bass -- 2013 -- 8' _
+## Electronic works 
 
-* Lyrics
-by Chris Mansell, Commissioned by Greg Dickson for the Song Company to
-celebrate the 60th Birthday of Penny Le Couteur. Premiered during
-the Song Company's 2013 Christmas Tour "Of Birds and Angels"
+Alternative Consciousness -- Electronics -- 2004 -- 10'  
 
-__
+* Premiered in "Electric:Bit" produced by Anthony Hood at Sydney Conservatorium of music, featured in the Why Note Festival, Dijon France 2006 
 
-_Seven Stations -- Sop, M.Sop,
-Bass, Vla, Vc, Perc -- 2013 -- 50' _
+## Works for Theatre, Dance and Film 
 
-* Commissioned
-by Charles Davidson, premiered 1/3/13 at Music Workshop Sydney Conservatorium
-of Music by Halcyon and Chronology Arts. Poetry by Chris Mansell
+Echo -- Electronics -- 2013 -- 8'  
 
-_Rise -- Fl, Cl, Sax, Perc, Vla,
-Vla, Vc -- 2009 -- 14' _
+* Composed for Amy Mauvan for the "Dance Meets Music" program at the Sydney Conservatorium of Music 2013 
 
-* Premiered
-by Chronology Arts at Carriageworks
+Morphic -- Electronics -- 2013 -- 27'  
 
-__
+* Commissioned by DirtyFeet for "Vitality" premiered Reginald Theatre Seymour Centre, August 2013 with choreography by Sarah-Vyne Vassallo 
 
-_Ex Nihilo Omnia Fit -- Vln, Vln,
-Vla, Vc, Vibes, Sop, M. Sop -- 2009 -- 8'30_
+Via Gori -- Bass Recorder, Hp -- 2009 -- 3'  
 
-* Commissioned by St Ives Uniting Church, premiered
-by Halcyon at St Ives Uniting Church. Words complied from Twitter
+* Commissioned by Illuminar Productions for short film of the same title, won various awards internationally 
 
-__
+Vitality -- B. Fl, Cl, sax, Vc -- 2009 -- 4'  
 
-_Circle of Creation -- Hp, Fl, Vc,
-Pno, solo SATB voices -- 2008 -- 7'40_
+* Premiered at 72 Erskine St Gallery by Chronology Arts -- written for DirtyFeet dance company, being reviewed for performance in 2012 
 
-* Commissioned by and premiered at St Ives Uniting Church, words by
-Douglas Purnell
+Black Rain -- Vc, Electronics -- 2006 -- 3'20  
 
-__
+* Commissioned by Illuminar Productions for a short film "Black Rain" which won various awards internationally 
 
-_Les Mots -- Bari Sax, Hp, Kit,
-Vla, Vla, Voice -- 2007 -- 6'50 _
+Live Acts on Stage -- Voice, Vc, Pno, Electronics -- 2003 -- 23 min  
 
-* Premiered
-by Chronology Arts in 2007\. Piano and
-voice arrangement by Roland Peelman for the New Music Network Miniseries in 2008 performed by
-Jessica Aszodi and Roland Peelman. Poetry by Andrew Batt-Rawden
-
-__
-
-__
-
-* Premiered
-by Song Company as part of Modart07, subsequently broadcast on ABC Classic FM
-and in NZ. Words by Andrew Batt-Rawden
-
-## Choral Works
-
-__
-
-_Un Droit Égal - four soloists and choir - 2015 - 8' _
-
-* Lyrics from diary extract of captain St Aloüarn and members of his crew as well as period colonisation policy documents as published in Philippe Goard et Tugdual de Kerros; "Louis de Saint Aloüarn, lieutenant des vaisseaux du roy : un marin breton à la conquête des terres australes". Commissioned by the Men of Song
-
-__
-
-_They Sailed - male choir - 2015 - 6' _
-
-* Lyrics by Rafe Morris. Commissioned by the Men of Song
-
-_The Tree -- children's choir in 3
-parts - 2014 -- 5' _
-
-* Lyrics
-by Chris Mansell, commissioned by the Pemulwuy Male Voice Festival 2014
-conducted by Michelle Leonard
-
-__
-
-_Sky Earth Bird -- mixed aged
-children's choir, vocal sextet, pno, vln, db, sop sax, percussion -- 2014 -- 9' _
-
-* Lyrics
-by Chris Mansell and Moorambilla Choirs, commissioned by Michelle Leonard for
-the 2014 Moorambilla Choirs performance
-
-## Electronic works
-
-__
-
-_Alternative Consciousness --
-Electronics -- 2004 -- 10' _
-
-* Premiered in "Electric:Bit" produced by Anthony Hood at Sydney
-Conservatorium of music, featured in the Why Note Festival, Dijon France 2006
-
-## Works for Theatre, Dance and Film
-
-__
-
-_Echo -- Electronics -- 2013 -- 8' _
-
-* Composed
-for Amy Mauvan for the "Dance Meets Music" program at the Sydney Conservatorium
-of Music 2013
-
-__
-
-_Morphic -- Electronics
--- 2013 -- 27' _
-
-* Commissioned by DirtyFeet for "Vitality"
-premiered Reginald Theatre Seymour Centre, August 2013 with choreography by
-Sarah-Vyne Vassallo
-
-__
-
-_Via Gori -- Bass Recorder, Hp --
-2009 -- 3' _
-
-* Commissioned by Illuminar Productions for
-short film of the same title, won various awards internationally
-
-__
-
-_Vitality -- B. Fl, Cl, sax, Vc --
-2009 -- 4' _
-
-* Premiered
-at 72 Erskine St Gallery by Chronology Arts -- written for DirtyFeet dance
-company, being reviewed for performance in 2012
-
-__
-
-_Black Rain -- Vc, Electronics --
-2006 -- 3'20 _
-
-* Commissioned by Illuminar Productions for a
-short film "Black Rain" which won various awards internationally
-
-__
-
-_Live Acts on Stage -- Voice, Vc,
-Pno, Electronics -- 2003 -- 23 min _
-
-* Music to the play "Live Acts on Stage" by
-Michael Gow for the Ryde Argyl Performig Arts company, premiered at the Seymour
-Centre
+* Music to the play "Live Acts on Stage" by Michael Gow for the Ryde Argyl Performing Arts company, premiered at the Seymour Centre
