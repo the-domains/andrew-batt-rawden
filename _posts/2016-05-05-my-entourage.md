@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Orlanda Bryars is my agent/manager at Chronology Arts. She helps me get organised. She's also an awesome musician herself (voice, cello). She's moved to Australia recently from the UK, but travels quite a bit for her own music work - check it out; www.orlandabryars.com"
-datePublished: '2016-05-05T02:59:10.956Z'
-dateModified: '2016-05-05T02:58:50.475Z'
+datePublished: '2016-05-05T03:00:10.513Z'
+dateModified: '2016-05-05T02:59:17.713Z'
 title: My Entourage
 author: []
+sourcePath: _posts/2016-05-05-my-entourage.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-05-my-entourage.md
 url: my-entourage/index.html
 _type: Article
 
